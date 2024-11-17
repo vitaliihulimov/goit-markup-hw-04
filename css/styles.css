@@ -315,6 +315,9 @@ a {
 .social-link:hover {
   background-color: #404bbf;
 }
+.social-link:focus {
+  background-color: #404bbf;
+}
 .container-icon {
   display: flex;
   align-items: center;
